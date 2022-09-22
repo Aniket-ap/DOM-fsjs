@@ -1,6 +1,11 @@
 ## Assignment-6 Answer
 
+```
+```
 
+![Code](./ss1.jpg)
+
+![Output](./ss2.jpg)
 
 ---
 
